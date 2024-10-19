@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Valentina L\u00F3pez\\Documents\\personapi-dotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5C873B-4F81-497F-8816-D5D976847E04}|personapi-dotnet\\personapi-dotnet.csproj|c:\\users\\valentina l\u00F3pez\\documents\\personapi-dotnet\\personapi-dotnet\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FC5C873B-4F81-497F-8816-D5D976847E04}|personapi-dotnet\\personapi-dotnet.csproj|solutionrelative:personapi-dotnet\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5C873B-4F81-497F-8816-D5D976847E04}|personapi-dotnet\\personapi-dotnet.csproj|c:\\users\\valentina l\u00F3pez\\documents\\personapi-dotnet\\personapi-dotnet\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FC5C873B-4F81-497F-8816-D5D976847E04}|personapi-dotnet\\personapi-dotnet.csproj|solutionrelative:personapi-dotnet\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5C873B-4F81-497F-8816-D5D976847E04}|personapi-dotnet\\personapi-dotnet.csproj|c:\\users\\valentina l\u00F3pez\\documents\\personapi-dotnet\\personapi-dotnet\\personapi_dotnet.dll||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FC5C873B-4F81-497F-8816-D5D976847E04}|personapi-dotnet\\personapi-dotnet.csproj|solutionrelative:personapi-dotnet\\personapi_dotnet.dll||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "personapi_dotnet.dll",
+              "DocumentMoniker": "C:\\Users\\Valentina L\u00F3pez\\Documents\\personapi-dotnet\\personapi-dotnet\\personapi_dotnet.dll",
+              "RelativeDocumentMoniker": "personapi-dotnet\\personapi_dotnet.dll",
+              "ToolTip": "C:\\Users\\Valentina L\u00F3pez\\Documents\\personapi-dotnet\\personapi-dotnet\\personapi_dotnet.dll",
+              "RelativeToolTip": "personapi-dotnet\\personapi_dotnet.dll",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-10-19T04:20:30.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Valentina L\u00F3pez\\Documents\\personapi-dotnet\\personapi-dotnet\\docker-compose.yml",
+              "RelativeDocumentMoniker": "personapi-dotnet\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\Valentina L\u00F3pez\\Documents\\personapi-dotnet\\personapi-dotnet\\docker-compose.yml",
+              "RelativeToolTip": "personapi-dotnet\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-10-19T04:14:35.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Valentina L\u00F3pez\\Documents\\personapi-dotnet\\personapi-dotnet\\Dockerfile",
+              "RelativeDocumentMoniker": "personapi-dotnet\\Dockerfile",
+              "ToolTip": "C:\\Users\\Valentina L\u00F3pez\\Documents\\personapi-dotnet\\personapi-dotnet\\Dockerfile",
+              "RelativeToolTip": "personapi-dotnet\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-19T04:14:33.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

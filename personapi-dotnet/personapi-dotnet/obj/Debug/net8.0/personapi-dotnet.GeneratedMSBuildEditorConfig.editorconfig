@@ -1,0 +1,135 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = personapi_dotnet
+build_property.RootNamespace = personapi_dotnet
+build_property.ProjectDir = C:\Users\Valentina López\Documents\personapi-dotnet\personapi-dotnet\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Valentina López\Documents\personapi-dotnet\personapi-dotnet
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/Estudio/CreateEstudio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpb1xDcmVhdGVFc3R1ZGlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/Estudio/DeleteEstudio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpb1xEZWxldGVFc3R1ZGlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/Estudio/DetailsEstudio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpb1xEZXRhaWxzRXN0dWRpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/Estudio/EditEstudio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpb1xFZGl0RXN0dWRpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/Estudio/ListEstudio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpb1xMaXN0RXN0dWRpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/Persona/CreatePersona.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxDcmVhdGVQZXJzb25hLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/Persona/DeletePersona.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxEZWxldGVQZXJzb25hLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/Persona/DetailsPersona.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxEZXRhaWxzUGVyc29uYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/Persona/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/Persona/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/Profesion/CreateProfesion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzaW9uXENyZWF0ZVByb2Zlc2lvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/Profesion/DeleteProfesion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzaW9uXERlbGV0ZVByb2Zlc2lvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/Profesion/DetailsProfesion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzaW9uXERldGFpbHNQcm9mZXNpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/Profesion/EditProfesion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzaW9uXEVkaXRQcm9mZXNpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/Profesion/ListProfesion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzaW9uXExpc3RQcm9mZXNpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/Telefono/CreateTelefono.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsZWZvbm9cQ3JlYXRlVGVsZWZvbm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/Telefono/DeleteTelefono.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsZWZvbm9cRGVsZXRlVGVsZWZvbm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/Telefono/DetailsTelefono.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsZWZvbm9cRGV0YWlsc1RlbGVmb25vLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/Telefono/EditTelefono.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsZWZvbm9cRWRpdFRlbGVmb25vLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/Telefono/ListTelefono.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsZWZvbm9cTGlzdFRlbGVmb25vLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Valentina López/Documents/personapi-dotnet/personapi-dotnet/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8xpzuv8i67

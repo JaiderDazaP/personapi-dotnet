@@ -1,0 +1,35 @@
+version: '3.4'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: personapi-dotnet
+    ports:
+      - "5000:80"  # Exponer puerto 5000 para la aplicación ASP.NET Core
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=sqlserver;Database=persona_db;User=sa;Password=Jaider123#;TrustServerCertificate=true
+    depends_on:
+      - sqlserver
+    networks:
+      - personapi-network
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    container_name: sqlserver
+    environment:
+      SA_PASSWORD: "Jaider123#"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+    volumes:
+      - ./init.sql:/init.sql
+    networks:
+      - personapi-network
+    command: /bin/bash -c "/opt/mssql/bin/sqlservr & sleep 30 & /opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P Jaider123# -i /init.sql"
+
+networks:
+  personapi-network:
+    driver: bridge
